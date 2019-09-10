@@ -1,0 +1,8 @@
+# not taracking files as follow
+*.o
+*.log
+*.a
+*.lib
+*.so
+*.out
+.node_modules
